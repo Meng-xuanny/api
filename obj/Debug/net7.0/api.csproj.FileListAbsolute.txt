@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/advanced/api/bin/Debug/net7.0/api
+/Users/mengxuan/Projects/advanced/api/bin/Debug/net7.0/api.deps.json
+/Users/mengxuan/Projects/advanced/api/bin/Debug/net7.0/api.runtimeconfig.json
+/Users/mengxuan/Projects/advanced/api/bin/Debug/net7.0/api.dll
+/Users/mengxuan/Projects/advanced/api/bin/Debug/net7.0/api.pdb
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.AssemblyInfo.cs
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.dll
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/refint/api.dll
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.pdb
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/api.genruntimeconfig.cache
+/Users/mengxuan/Projects/advanced/api/obj/Debug/net7.0/ref/api.dll
